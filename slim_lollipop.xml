@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <I9100>
+            <Filename>SlimSaber-i9100-5.1.1-20160517</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download SlimSaber builds">https://www.androidfilehost.com/?fid=24533103863141264</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest SlimGapps">http://209.95.39.164/Gapps/Lollipop</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit SlimSaber i9100 thread">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-slimsaber-t3079949</XDAUrl>
+	</I9100>
+    </Stable>
+</SlimOTA>
