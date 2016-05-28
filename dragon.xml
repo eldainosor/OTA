@@ -3,22 +3,14 @@
     <Stable>
         <I9100>
        	 <Filename>ResurrectionRemix-M-v5.6.9-20160528-i9100.zip</Filename>
-       	  <BuildsUrl
-            	id="builds"
-            	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/i9100/ResurrectionRemix-M-v5.6.9-20160528-i9100.zip</BuildsUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/i9100</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/resurrectionremix/i9100/ResurrectionRemix-M-v5.6.9-20160528-i9100.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
-            <SlimGappsUrl
-            	id="slim_gapps"
-            	title="Slim GApps"
-            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open"
