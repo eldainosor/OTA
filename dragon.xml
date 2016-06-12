@@ -3,10 +3,14 @@
     <Stable>
         <I9100>
        	 <Filename>ResurrectionRemix-M-v5.6.9-20160611-i9100</Filename>
+       	   <BuildsUrl
+            	id="builds"
+            	title="LatestBuild"
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/i9100/ResurrectionRemix-M-v5.6.9-20160611-i9100.zip</BuildsUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/i9100/ResurrectionRemix-M-v5.6.9-20160611-i9100.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/resurrectionremix/i9100</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
