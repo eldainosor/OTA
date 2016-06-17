@@ -15,10 +15,6 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
-            <OpenGappsUrl
-            	id="open_gapps"
-            	title="Open"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</I9100>
     </Stable>
 </SlimOTA>
