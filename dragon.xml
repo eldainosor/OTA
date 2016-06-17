@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/i9100/ResurrectionRemix-M-v5.6.9-20160611-i9100.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/resurrectionremix/i9100/ResurrectionRemix-M-v5.6.9-20160611-i9100.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
