@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <i9100>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160824-i9100.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160905-i9100.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download RR latest build">http://bit.ly/2bBBggz</RomUrl>
+                description="Download RR latest build">https://www.androidfilehost.com/?fid=24591000424963094</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
