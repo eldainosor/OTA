@@ -2,23 +2,23 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <i9100>
-            <Filename>ResurrectionRemix-M-v5.7.4-20160924-i9100.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161125-i9100.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download RR latest build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&dl=resurrectionremix/i9100/ResurrectionRemix-M-v5.7.4-20160924-i9100.zip</RomUrl>
+                description="Download RR latest build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&dl=resurrectionremix/i9100/ResurrectionRemix-N-v5.8.0-20161125-i9100.zip#</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View changelogs">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View changelogs">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest OpenGapps">http://http://opengapps.org/</GappsUrl>
+                description="Download latest OpenGapps">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit RR i9100 thread">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-resurrection-remix-m-t3386140</XDAUrl>
+                description="Visit RR i9100 thread">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-resurrection-remix-t3507366</XDAUrl>
 	</i9100>
     </Stable>
 </SlimOTA>
