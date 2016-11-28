@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
         <i9100>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161125-i9100.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161128-i9100.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download RR latest build">http://tinyurl.com/RR-i9100</RomUrl>
+                description="Download RR latest build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/i9100/ResurrectionRemix-N-v5.8.0-20161128-i9100.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
