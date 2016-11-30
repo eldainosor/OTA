@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
-        <i9100>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161128-i9100.zip</Filename>
+        <surnia>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161130-surnia.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit RR i9100 thread">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-resurrection-remix-t3507366</XDAUrl>
-	</i9100>
+                description="Visit RR surnia thread">http://forum.xda-developers.com/moto-e-2015/orig-development/rom-resurrection-remix5-5-1-t3160059</XDAUrl>
+	</surnia>
     </Stable>
 </SlimOTA>
