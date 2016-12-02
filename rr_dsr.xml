@@ -6,11 +6,11 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download RR latest build (basketbuild)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-N-v5.8.0-20161130-surnia.zip</RomUrl>
-            <AFHUrl
+                description="Download RR latest build (basketbuild)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ ResurrectionRemix-N-v5.8.0-20161202-surnia.zip</RomUrl>
+            <RomMirrorUrl
                 id="afh"
                 title="ROM (Mirror)"
-                description="Download RR latest build (AFH)">https://www.androidfilehost.com/?fid=313042859668276307</AFHUrl>
+                description="Download RR latest build (Google Drive)">https://www.androidfilehost.com/?fid=313042859668276307</RomMirrorUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
