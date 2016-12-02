@@ -5,8 +5,12 @@
             <Filename>ResurrectionRemix-N-v5.8.0-20161130-surnia.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download RR latest build">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-N-v5.8.0-20161130-surnia.zip</RomUrl>
+                title="ROM"
+                description="Download RR latest build (basketbuild)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-N-v5.8.0-20161130-surnia.zip</RomUrl>
+            <AFHUrl
+                id="afh"
+                title="Teste"
+                description="Pointless button for the future">https://www.youtube.com/watch?v=ZRkP2ARYVVw</AFHUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
