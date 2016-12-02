@@ -9,8 +9,8 @@
                 description="Download RR latest build (basketbuild)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-N-v5.8.0-20161130-surnia.zip</RomUrl>
             <AFHUrl
                 id="afh"
-                title="Teste"
-                description="Pointless button for the future">https://www.youtube.com/watch?v=ZRkP2ARYVVw</AFHUrl>
+                title="ROM (Mirror)"
+                description="Download RR latest build (AFH)">https://www.androidfilehost.com/?fid=313042859668276307</AFHUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
