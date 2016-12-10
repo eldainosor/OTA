@@ -2,19 +2,23 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
         <surnia>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161208-surnia.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161209-surnia.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download RR latest build (BasketBuild)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-N-v5.8.0-20161208-surnia.zip</RomUrl>
+                description="Download RR latest build (BasketBuild)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-N-v5.8.0-20161209-surnia.zip</RomUrl>
             <RomMirrorUrl
                 id="afh"
                 title="ROM (Mirror)"
-                description="Download RR latest build (AFH)">https://www.androidfilehost.com/?fid=385035244224404411</RomMirrorUrl>
+                description="Download RR latest build (AFH)">https://www.androidfilehost.com/?fid=529152257862687642</RomMirrorUrl>
             <ChangelogUrl
                 id="changelog"
-                title="Changelog"
-                description="View changelogs">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                title="Official Changelog"
+                description="View RR changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <ChangelogDevUrl
+                id="changelog"
+                title="Device-Specific Changelog"
+                description="View RR + surnia changelog">http://eldainosor.github.io/resurrected/</ChangelogDevUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
