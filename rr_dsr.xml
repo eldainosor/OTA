@@ -15,10 +15,10 @@
                 id="changelog"
                 title="Official Changelog"
                 description="View RR changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-            <ChangelogDevUrl
-                id="changelog"
+            <DeviceLogUrl
+                id="devchange"
                 title="Device-Specific Changelog"
-                description="View RR + surnia changelog">http://eldainosor.github.io/resurrected/</ChangelogDevUrl>
+                description="View RR + surnia changelog">http://eldainosor.github.io/resurrected/</DeviceLogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
