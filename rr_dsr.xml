@@ -9,8 +9,8 @@
                 description="Download RR latest build on BasketBuild">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/RR-N-v5.8.0-20170113-surnia-Weekly.zip</RomUrl>
             <RomMirrorUrl
                 id="afh"
-                title="ROM (previous build)"
-                description="[No new build on AFH due to site maintenance]">https://www.androidfilehost.com/?fid=529152257862694032</RomMirrorUrl>
+                title="ROM (Mirror)"
+                description="Download RR latest build on AndroidFileHost">https://www.androidfilehost.com/?fid=745425885120700270</RomMirrorUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Official Changelog"
