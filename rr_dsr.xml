@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
         <surnia>
-            <Filename>RR-N-v5.8.0-20170120-surnia-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170203-surnia-Weekly.zip</Filename>
+            <RomMirrorUrl
+                id="afh"
+                title="ROM (Mirror)"
+                description="Download RR latest build on AndroidFileHost">https://www.androidfilehost.com/?fid=673368273298928493</RomMirrorUrl>
             <RomUrl
                 id="rom"
                 title="ROM [NOT AVALIABLE FOR NOW]"
                 description="Download RR old build on BasketBuild (RR Site Soon)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/RR-N-v5.8.0-20170113-surnia-Weekly.zip</RomUrl>
-            <RomMirrorUrl
-                id="afh"
-                title="ROM (Mirror)"
-                description="Download RR latest build on AndroidFileHost">https://www.androidfilehost.com/?fid=817550096634741871</RomMirrorUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Official Changelog"
