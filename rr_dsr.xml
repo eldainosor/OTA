@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
         <surnia>
-            <Filename>RR-N-v5.8.1-20170203-surnia-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170210-surnia-Weekly.zip</Filename>
             <RomMirrorUrl
                 id="afh"
                 title="ROM (Mirror)"
-                description="Download RR latest build on AndroidFileHost">https://www.androidfilehost.com/?fid=673368273298928493</RomMirrorUrl>
+                description="Download RR latest build on AndroidFileHost">https://www.androidfilehost.com/?fid=529152257862702046</RomMirrorUrl>
             <RomUrl
                 id="rom"
                 title="ROM [NOT AVALIABLE FOR NOW]"
