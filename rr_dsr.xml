@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
         <surnia>
-            <Filename>RR-N-v5.8.2-20170310-surnia-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170317-surnia-Weekly.zip</Filename>
             <RomMirrorUrl
                 id="afh"
-                title="ROM (Mirror)"
-                description="Download RR latest build on AndroidFileHost">https://www.androidfilehost.com/?fid=745425885120713881</RomMirrorUrl>
-            <RomUrl
+                title="ROM"
+                description="Download RR latest build on AndroidFileHost">https://www.androidfilehost.com/?fid=529152257862710949</RomMirrorUrl>
+<!--             <RomUrl
                 id="rom"
                 title="ROM [NOT AVALIABLE FOR NOW]"
-                description="Download RR old build on BasketBuild (RR Site Soon)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/RR-N-v5.8.0-20170113-surnia-Weekly.zip</RomUrl>
+                description="Download RR old build on BasketBuild (RR Site Soon)">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/RR-N-v5.8.0-20170113-surnia-Weekly.zip</RomUrl> -->
             <ChangelogUrl
                 id="changelog"
                 title="Official Changelog"
@@ -18,7 +18,7 @@
             <DeviceLogUrl
                 id="devchange"
                 title="Device-Specific Changelog"
-                description="View RR + surnia changelog">http://eldainosor.github.io/resurrected/</DeviceLogUrl>
+                description="View RR + surnia changelog">https://gist.githubusercontent.com/eldainosor/01a85dcae6a06d7286d134b29392063e/raw/e8ae4abe3b228efa5a05148e7d767e84a88aa8bf/rr-changelog.mkdn</DeviceLogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
